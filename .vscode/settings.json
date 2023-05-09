@@ -1,0 +1,19 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/.gitattributes": true,
+        ".gitattributes": true,
+        "**/LICENSE": true,
+        "LICENSE": true,
+        "**/README.md": true,
+        "*.md": true,
+        "README.md": true,
+        "**/*.md": true
+    },
+    "explorerExclude.backup": {}
+}
